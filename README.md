@@ -11,6 +11,7 @@
   <br>
   <img src="https://img.shields.io/badge/tailwindcss%20-%230A1121.svg?&style=for-the-badge&logo=tailwindcss&logoColor=%2339BDF9"/>
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
   <br><br>
   <br><br>
 
