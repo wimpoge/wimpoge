@@ -23,4 +23,4 @@
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wimpoge&layout=compact&langs_count=8&theme=algolia"/>
     </a>
     </p>
-https://github-profile-trophy.vercel.app/?username=wimpoge
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwimpoge1212%2Fhit-counter" />
