@@ -36,7 +36,7 @@
     </a>
   </p>
   <br><br>
-  <a href="https://portfolio-one-tau-52.vercel.app">
+  <a href="https://portfolio-one-tau-52.vercel.app" target="_blank">
     <img src="https://i.imgur.com/0pCb8Kr.png" alt="Imgur Image" style="border-radius: 20%"/>
   </a>
 </div>
