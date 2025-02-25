@@ -42,7 +42,7 @@
     </a>
   </p>
   <br><br>
-  <a href="https://portfolio-flax-eight-47.vercel.app/" target="_blank">
+  <a href="https://wimpoge.github.io" target="_blank">
     <img src="https://i.imgur.com/0pCb8Kr.png" alt="Imgur Image" style="border-radius: 20%"/>
   </a>
 </div>
