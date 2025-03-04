@@ -43,6 +43,6 @@
   </p>
   <br><br>
   <a href="https://wimpoge.github.io" target="_blank">
-    <img src="https://i.imgur.com/0pCb8Kr.png" alt="Imgur Image" style="border-radius: 20%"/>
+    <img src="https://imgur.com/RLSRyGv.png" alt="Imgur Image" style="border-radius: 20%"/>
   </a>
 </div>
